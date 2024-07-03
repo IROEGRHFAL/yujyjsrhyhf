@@ -1,0 +1,27 @@
+h1 {
+    color:rgba(19, 134, 201, 0.953);
+    font-size: 500px;
+    font-size: 500%;
+font-size: small;}
+body{background-image: url("pikachu.jpg");
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Pn4I_wdAW4NaqvzGZhNDcrrYkYWQK9YdQQ&s);
+background-position: top right;
+background-position: 10% 20%;
+background-position: 50px 100px;
+}
+div {
+
+    color: green;
+
+    width:100px;
+    height:100px;
+}
+
+ol li:nth-child(odd) {
+    color: blue;}
+
+    
+span {
+    color: rgb(12, 141, 12);
+}
+
